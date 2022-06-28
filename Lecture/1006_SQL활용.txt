@@ -1,0 +1,14 @@
+SQL활용
+
+- DDL: 데이터 정의 언어
+create, drop, alter
+
+- DCL: 데이터 제어 언어
+grant, revoke
+commit,rollback - TCL
+
+- DML 
+insert, select, update, delete
+CRUD
+
+SQL응용
